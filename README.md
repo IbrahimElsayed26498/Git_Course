@@ -1,3 +1,3 @@
 # Git_Course
-###For Elzero web school.
+For Elzero web school.
 ## Project Notes
